@@ -66,4 +66,4 @@ The system communicates its state and receives remote commands via MQTT:
 ---
 ## Author
 **Quinn**  
-**Embedded Software Engineer / Developer**
+**Embedded IoT Devices student | GUI & Cloud Enthusiast**
